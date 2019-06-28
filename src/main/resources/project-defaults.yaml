@@ -1,0 +1,6 @@
+swarm:
+  deployment:
+    xavier-integration-rest-doc.war:
+      swagger:
+        packages:
+          - org.jboss.xavier.integrations
