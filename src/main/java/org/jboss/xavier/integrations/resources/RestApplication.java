@@ -1,4 +1,4 @@
-package org.jboss.xavier.integrations;
+package org.jboss.xavier.integrations.resources;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

@@ -1,4 +1,4 @@
-package org.jboss.xavier.integrations;
+package org.jboss.xavier.integrations.resources;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
